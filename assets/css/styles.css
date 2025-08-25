@@ -1,0 +1,8 @@
+:root{
+  --bs-primary:#6750a4;
+}
+.hero {
+  background: linear-gradient(135deg,#ede7f6,#e3f2fd);
+  border-radius: 1.25rem;
+}
+.card-hover:hover { transform: translateY(-3px); transition: .2s; }
